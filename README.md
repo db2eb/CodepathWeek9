@@ -1,7 +1,7 @@
 # CodepathWeek9
 
 Honeypot deployed: 
-mhn-honeypot-1
+mhn-honeypot-1, Ubuntu - Dionaea with HTTP
 
 Issues:
 I downloaded the wrong google-cloud-sdk folder and I couldn't open the external IP because of that.
